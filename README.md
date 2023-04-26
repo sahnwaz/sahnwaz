@@ -26,7 +26,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" style="margin: 10px;"> <img src="https://img.icons8.com/color/48/000000/css3.png" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 10px;"> <img src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>
 <a href="https://react-dev.com/" target="_blank" style="margin: 10px;"> <img src="https://techinfini.in/wp-content/uploads/2017/09/React-Logo-1.png" alt="Reactjs" width="50" height="45" /> </a>
-<a href="https://next-js.com/" target="_blank" style="margin: 10px;"> <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Nextjs" width="50" height="50" /> </a>
+<a href="https://next-js.com/" target="_blank" style="margin: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Nextjs" width="50" height="50" /> </a>
 <a href="https://msoffice.com/" target="_blank" style="margin: 10px;"> <img src="https://w7.pngwing.com/pngs/600/207/png-transparent-microsoft-microsoft-office-logo-design-symbol-icon-microsoft-office-logo-microsoft-office-icon-microsoft-office-logo-design-ms-office.png" alt="msoffice" width="100" height="50" /> </a>
 <a href="https://getbootstrap.com" target="_blank" style="margin: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="tailwind" width="60" height="50" /> </a>
 <a href="https://tailwindcss.com/" target="_blank" style="margin: 10px;"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />  </a>
